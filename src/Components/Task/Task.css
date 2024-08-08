@@ -1,0 +1,12 @@
+.task {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .task.completed {
+    text-decoration: line-through;
+    color: grey;
+  }
+  .task-name {
+    margin-left: 8px;
+    margin-right: 8px;
+  }
